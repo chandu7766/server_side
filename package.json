@@ -1,0 +1,19 @@
+{
+    "name": "example",
+    "version": "0.1",
+    "description": "demo for app",
+   
+    "main": "serverside.js",
+    "scripts": {
+      "start": "node serverside.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "node",
+      "heroku"
+    ],
+    "license": "None"
+  }
